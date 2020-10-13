@@ -1,4 +1,4 @@
-### Hi there 👋
+### 반갑소 👋
 
 <!--
 **bori-kim/bori-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
