@@ -11,3 +11,4 @@
 ### <h1>Theses days I'm studying this</h1>
 <img src="https://img.shields.io/badge/VisualStudioCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=007ACC"><img src="https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=339933"><img src="https://img.shields.io/badge/Nodemon-informational?style=flat&logo=Nodemon&logoColor=white&color=76D04B">
 
+<img src="https://img.shields.io/badge/React?style=flat&logo=React&logoColor=white&color=#61DAFB">
