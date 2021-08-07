@@ -1,7 +1,9 @@
-### <h1>Welcome to my github!👋</h1> 
+### Welcome to my github!👋
 
-https://vite-react-todo.insik.ninja/
+## Practice
 
-https://vite-react-landing-page1.insik.ninja/
+- https://vite-react-todo.insik.ninja/
 
-https://vite-react-easy-airbnb.insik.ninja/
+- https://vite-react-landing-page1.insik.ninja/
+
+- https://vite-react-easy-airbnb.insik.ninja/
