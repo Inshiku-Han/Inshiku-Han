@@ -7,3 +7,5 @@
 - https://vite-react-landing-page1.insik.ninja/
 
 - https://vite-react-easy-airbnb.insik.ninja/
+
+- https://paint-js.insik.ninja
