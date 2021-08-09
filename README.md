@@ -2,12 +2,12 @@
 
 ## Practice
 
-- https://vite-react-todo.insik.ninja
+- https://todo.insik.ninja
 
-- https://vite-react-landing-page1.insik.ninja
+- https://landing-page1.insik.ninja
 
-- https://vite-react-landing-page2.insik.ninja
+- https://landing-page2.insik.ninja
 
-- https://vite-react-easy-airbnb.insik.ninja
+- https://easy-airbnb.insik.ninja
 
 - https://paint-js.insik.ninja
