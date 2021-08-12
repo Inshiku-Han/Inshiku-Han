@@ -2,6 +2,8 @@
 
 ## Practice
 
+- https://www.insik.ninja
+
 - https://todo.insik.ninja
 
 - https://landing-page1.insik.ninja
