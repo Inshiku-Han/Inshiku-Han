@@ -6,7 +6,7 @@
 
 - https://www.insik.ninja/todo
 
-- https://landing-page1.insik.ninja
+- https://www.insik.ninja/landing1
 
 - https://landing-page2.insik.ninja
 
