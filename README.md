@@ -4,7 +4,7 @@
 
 - https://www.insik.ninja
 
-- https://todo.insik.ninja
+- https://www.insik.ninja/todo
 
 - https://landing-page1.insik.ninja
 
