@@ -8,8 +8,6 @@
 
 - https://www.insik.ninja/landing1
 
-- https://landing-page2.insik.ninja
-
 - https://easy-airbnb.insik.ninja
 
 - https://paint-js.insik.ninja
