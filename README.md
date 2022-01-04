@@ -5,6 +5,7 @@
 
 
 # Todo
-* Learn Flutter
-* Learn React Native
+* Research Flutter
+* Research React Native
+* Research Remix Run
 * Enhance My Site
