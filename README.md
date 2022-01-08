@@ -5,7 +5,8 @@
 
 
 # Todo
-* Research Flutter
-* Research React Native
-* Research Remix Run
-* Enhance My Site
+1. Research gsap
+2. Research Flutter
+3. Research React Native
+4. Research Docusaurus 
+5. Enhance My Site
