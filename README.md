@@ -7,7 +7,6 @@
 # Todo
 1. Research Framer Motion
 2. Research Green Sock
-5. Research Docusaurus
-6. Enhance My Site
-7. Research Flutter
-8. Research React Native 
+3. Research Docusaurus
+4. Enhance My Site
+5. Research Flutter
