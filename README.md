@@ -4,5 +4,5 @@
 - https://www.remix.insik.ninja (empty)
 
 ## Todo
-- create Rich Text Editor with Slate.js
-- research Turborepo, Lerna, Nx
+- learn tauri
+- research Turborepo, Nx
