@@ -4,5 +4,6 @@
 - https://www.remix.insik.ninja (empty)
 
 ## Todo
-- learn tauri
-- research Turborepo, Nx
+- learn Tauri & Rust
+- learn docker & aws-copilot
+- terraform-aws-next-js is useful?
