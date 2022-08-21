@@ -6,3 +6,6 @@
 ## Todo
 - learn Tauri & Rust
 - learn Web Push API
+- learn Three.js
+- learn urql
+- learn Golang & Gin
