@@ -4,6 +4,6 @@
 - https://three.insik.ninja (not complete)
 
 ## Todo
-- Next.js + Trpc
+- Go + gRpc
 - Astro + Three
 - Flutter
