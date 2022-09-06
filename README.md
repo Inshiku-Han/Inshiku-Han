@@ -6,5 +6,4 @@
 ## Todo
 - Go + gRpc
 - Astro + Three
-- Swift + ios
-- Kotlin + android
+- Flutter
