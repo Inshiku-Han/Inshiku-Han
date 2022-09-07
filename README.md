@@ -4,6 +4,7 @@
 - https://three.insik.ninja (not complete)
 
 ## Todo
+- Astro + three
+- Kotlin + android
+- Swift + ios
 - Go + gRpc
-- Astro + Three
-- Flutter
