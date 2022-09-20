@@ -5,6 +5,7 @@
 
 ## Todo
 - Astro + three
+- Astro + gsap
 - Kotlin + android
 - Swift + ios
 - Go + gRpc
