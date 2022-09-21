@@ -9,4 +9,7 @@
 - Kotlin + android
 - Swift + ios
 - Go + gRpc
-- Testing + React
+- Testing
+  - Vitest
+  - Playwright
+  - Storybook
