@@ -6,6 +6,7 @@
 ## Todo
 - Astro + three
 - Astro + gsap
+- Svelte + kit
 - Kotlin + android
 - Swift + ios
 - Go + gRpc
