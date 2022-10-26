@@ -3,6 +3,8 @@
 ## Todo
 - Astro + three
 - Astro + gsap
+- Qwik
+- Vite Plugin SSR
 - Kotlin + android
 - Swift + ios
 - Testing
