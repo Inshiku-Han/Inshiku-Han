@@ -4,10 +4,10 @@
 - Astro + three
 - Astro + gsap
 - Qwik
-- Vite Plugin SSR
 - Kotlin + android
 - Swift + ios
 - Testing
-  - Vitest
-  - Playwright
-  - Storybook
+  - Vitest -> unit
+  - Playwright -> e2e
+  - Storybook -> UI
+  - msw -> mocks
