@@ -1,8 +1,7 @@
 # Welcome to my github!👋
 
 ## Todo
-- Astro + three
-- Astro + gsap
+- Astro + three | gsap | svg
 - Qwik
 - Kotlin + android
 - Swift + ios
