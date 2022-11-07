@@ -1,12 +1,13 @@
 # Welcome to my github!👋
 
 ## Todo
-- Astro + three | gsap | svg
-- Qwik
+- three.js
+- gsap
+- framer(with motion)
 - Kotlin + android
 - Swift + ios
 - Testing
-  - Vitest -> unit
-  - Playwright -> e2e
-  - Storybook -> UI
-  - msw -> mocks
+  - unit -> Vitest
+  - e2e -> Playwright
+  - UI -> Storybook
+  - mocks -> msw
