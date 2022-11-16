@@ -2,7 +2,6 @@
 
 ## Todo
 - three.js
-- gsap
 - framer(with motion)
 - Kotlin + android
 - Swift + ios
