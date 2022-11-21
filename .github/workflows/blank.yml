@@ -31,4 +31,4 @@ jobs:
           echo github.head_ref : ${{ github.head_ref }}
           echo github.ref_name : ${{ github.ref_name }}
           echo github.ref : ${{ github.ref }}
-          echo GITHUB_REF ${GITHUB_REF##*/}
+          echo GITHUB_REF : ${GITHUB_REF##*/}
