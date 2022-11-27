@@ -3,8 +3,7 @@
 ## Todo
 - three.js
 - framer(with motion)
-- Kotlin + android
-- Swift + ios
+- Tauri(with rustlang)
 - Testing
   - unit -> Vitest
   - e2e -> Playwright
