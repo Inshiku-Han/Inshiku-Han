@@ -3,7 +3,6 @@
 ## Todo
 - three.js
 - framer(with motion)
-- Ionic Capacitor
 - Kotlin + android
 - Swift + ios
 - Testing
