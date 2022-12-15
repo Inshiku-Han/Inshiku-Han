@@ -7,6 +7,7 @@
 - three.js
 - svg
 - Tauri(with rustlang)
+- Flutter(with Dart)
 - Testing
   - unit -> Vitest
   - e2e -> Playwright
