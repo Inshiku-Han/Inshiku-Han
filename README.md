@@ -14,8 +14,12 @@
 
 ### React
 
-- framer(with motion)
+- framer
 - react-spring
+- Remix
+  - with graphql
+  - with architect
+  - with oauth
 
 ### Vue
 
@@ -32,3 +36,8 @@
 ### Dart
 
 - Flutter
+
+### Deploy
+- SAM CLI with AWS Lambda Web Adpater
+  - multi env
+  - domain
