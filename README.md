@@ -16,10 +16,6 @@
 
 - framer
 - react-spring
-- Remix
-  - with graphql
-  - with architect
-  - with oauth
 
 ### Vue
 
