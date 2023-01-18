@@ -17,17 +17,10 @@
 - framer
 - react-spring
 
-### Vue
+### Cross Platform
 
-- Nuxt.js
-
-### Svelte
-
-- Kit
-
-### Rust
-
-- Tauri
+- Tauri(with Rust)
+- Capacitor
 
 ### Dart
 
