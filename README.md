@@ -6,11 +6,6 @@
 
 - three.js
 - svg
-- Testing
-  - unit -> Vitest
-  - e2e -> Playwright
-  - UI -> Storybook
-  - mocks -> msw
 
 ### React
 
@@ -20,7 +15,6 @@
 ### Cross Platform
 
 - Tauri(with Rust)
-- Capacitor
 
 ### Dart
 
