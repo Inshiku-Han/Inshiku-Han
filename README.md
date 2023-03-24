@@ -15,4 +15,8 @@
 - Jest
 
 ### E2E Testing
+- Cypress
 - Playwright
+
+### Component Testing
+- Storybook
