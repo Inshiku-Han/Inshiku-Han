@@ -2,18 +2,17 @@
 
 ## Todo
 
-### Javascript
+### UI Library
 
 - three.js
+- Svelte
 
 ### Cross Platform
 
 - Tauri(with Rust)
 
-### Svelte
+### Unit Testing
+- Jest
 
-- Basic
-
-### Deploy
-- Next.js with SST
-- Astro with SST
+### E2E Testing
+- Playwright
