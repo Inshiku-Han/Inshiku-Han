@@ -5,7 +5,6 @@
 ### UI Library
 
 - three.js
-- Svelte
 
 ### Cross Platform
 
@@ -16,7 +15,6 @@
 
 ### E2E Testing
 - Cypress
-- Playwright
 
 ### Component Testing
 - Storybook
