@@ -11,5 +11,5 @@
 
 - Tauri(with Rust)
 
-### Config Editor
-- Eslint for insik-han repository(use github npm module and pnpm workspace)
+### Eslint
+- create config for insik-han repository(use github npm module and pnpm workspace)
