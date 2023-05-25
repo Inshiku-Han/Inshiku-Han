@@ -12,4 +12,4 @@
 - Tauri(with Rust)
 
 ### Config Editor
-- Eslint for insik-han repository(use github npm module and turborepo)
+- Eslint for insik-han repository(use github npm module and pnpm workspace)
