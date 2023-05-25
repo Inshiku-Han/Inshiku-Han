@@ -4,6 +4,7 @@
 
 ### UI Library
 
+- Vue.js
 - three.js
 
 ### Cross Platform
