@@ -1,12 +1,9 @@
 # Welcome to my github!👋
 
 ## Todo
-
-### UI Library
-
-- Vue.js
-- three.js
-
-### Cross Platform
-
-- Tauri(with Rust)
+- Testing
+- Three.js
+- Next.js(App Router)
+- React Native(Android, IOS, Windows, Mac)
+- Python
+- Data Structures and Algorithms
