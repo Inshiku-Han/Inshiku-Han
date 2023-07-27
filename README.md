@@ -1,9 +1,8 @@
 # Welcome to my github!👋
 
 ## Todo
-- Testing(Jest, Cypress)
 - Three.js(with Journey)
-- Next.js(using App Router)
+- Demo EC Site
 - Flutter
 - Rust
 
