@@ -3,7 +3,7 @@
 ## Todo
 - Three.js(with Journey)
 - Demo EC Site
-- Flutter
+- React Native
 - Rust
 
 ## Other
