@@ -2,9 +2,7 @@
 
 ## Todo
 - Three.js(with Journey)
-- Create Website using Astro.js
 - Template
-  - Nest.js + Prisma + Type Graphql
   - Nest.js + Prisma + OpenAPI
   - Ruby on Rails MVC
   - PHP Laravel MVC
