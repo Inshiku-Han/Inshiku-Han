@@ -2,4 +2,4 @@
 
 ## Todo
 1. Three.js with Three.js Journey Course
-2. Phaser.js with Cordova(Android, IOS, Electron)
+2. Develop Game using Phaser.js and Deploy to Crossplatform(Android, IOS, MacOS, Windows, Linux)
