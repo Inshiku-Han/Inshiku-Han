@@ -52,3 +52,5 @@
 
 ## Todo
 - [ ] Learn Three.js with Three.js Journey Course
+- [ ] Leran Backend with [Boot.dev](https://www.boot.dev/)
+- [ ] Solve Leetcode problem per day(use Python3 or Golang)
