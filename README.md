@@ -52,4 +52,3 @@
 
 ## Todo
 - [ ] Learn Three.js with Three.js Journey Course
-- [ ] Solve Leetcode problem per day(use Python3 or Golang)
