@@ -52,5 +52,3 @@
 
 ## Todo
 - [ ] Learn Three.js with Three.js Journey Course
-- [ ] Create REST API Server with Bun + Elysia + Prisma
-- [ ] Create REST API Server with Node + Nest + Prisma
