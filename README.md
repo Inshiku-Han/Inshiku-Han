@@ -49,6 +49,3 @@
 
 ## Leetcode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/insik-han?theme=unicorn)
-
-## Todo
-- [ ] Learn Three.js with Three.js Journey Course
